@@ -64,7 +64,7 @@ budget: 100000
 currency: ₽
 reserve: 30000
 reserve_transferred: false
-travel: 30000
+travel: 20000
 travel_transferred: false
 categories:
   Жилье: 6000
